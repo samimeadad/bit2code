@@ -13,7 +13,7 @@ function App () {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Please Contact bit2code.com
+          Please Contact bit2code.com proprietor through Linkedin. Thank you.
         </a>
       </header>
     </div>
