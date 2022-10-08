@@ -1,21 +1,19 @@
-import logo from './logo.svg';
+import logo from './images/logo.png';
 import './App.css';
 
-function App() {
+function App () {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src={ logo } className="App-logo" alt="logo" />
+        <h1>This site is under development. We will come back soon after some major updates. Please stay with us.</h1>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.linkedin.com/in/sami-meadad-choudhury/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Please Contact bit2code.com
         </a>
       </header>
     </div>
